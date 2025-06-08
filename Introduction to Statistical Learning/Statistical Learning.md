@@ -51,9 +51,7 @@ Initially, as flexibility increase bias decrease faster than variance increases 
 Finding sweet spot where both the bias and variance are low is the recurring themes of the book.
 In real life, it's impossible to compute test MSE, bias or variance. 
 ### Classification Setting
-$$
-\frac{1}{n} \sum_{i=1}^{n} \mathbb{I}(y_i \ne \hat{y}_i).
-$$
+$$\frac{1}{n} \sum_{i=1}^{n} \mathbb{I}(y_i \ne \hat{y}_i).$$
 which calculates the fraction of incorrect classifications.
 ### Bayes Classifier 
 For each observation, assign the most likely class, given its predictor values. Find the largest conditional probability for class j.
