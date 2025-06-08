@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3d5d261bb1e859",
+        "id": "b184d682213f578c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff0064b24575a5e",
+            "id": "b68b5629aa876757",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cf0095a24604e551",
@@ -165,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff0064b24575a5e",
+  "active": "b68b5629aa876757",
   "lastOpenFiles": [
-    "Linear Regression.md",
     "Statistical Learning.md",
+    "Linear Regression.md",
     "Introduction.md"
   ]
 }
