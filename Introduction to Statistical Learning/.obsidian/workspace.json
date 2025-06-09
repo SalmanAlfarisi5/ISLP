@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Learning.md",
+                "file": "Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Learning"
+              "title": "Classification"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cf0095a24604e551",
@@ -185,9 +186,9 @@
   },
   "active": "0278e792eeba0a49",
   "lastOpenFiles": [
+    "Statistical Learning.md",
     "Introduction.md",
     "Classification.md",
-    "Linear Regression.md",
-    "Statistical Learning.md"
+    "Linear Regression.md"
   ]
 }
