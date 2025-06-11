@@ -28,8 +28,6 @@
 ```bash
 # clone and enter
 $ git clone https://github.com/SalmanAlfarisi5/ISLP
-$ cd islp-summary
-
 ```
 
 ## Contribute / reuse
