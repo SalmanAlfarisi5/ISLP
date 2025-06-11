@@ -6,7 +6,7 @@
 
 ## What’s here?
 
-- Short, annotated markdown for each chapter
+- Very very Short, annotated markdown for each chapter
 - Mini‑projects that apply the chapter’s ideas to real data (to be done)
 - Key formulas / code snippets I keep forgetting 🙃
 
@@ -17,9 +17,10 @@
 | Chapter                 | Status         |
 | ----------------------- | -------------- |
 | 1. Introduction | 🟢 Done |
-| 2. Linear Regression    | 🛠 in progress |
-| 3‑9                     | ⏳ up next      |
-
+| 2. Statistical Learning | 🟢 Done |
+| 3. Linear Regression | 🟢 Done |
+| 4. Classification | 🛠 in progress
+| 5 - 12 | ⏳ up next |
 ---
 
 ## Run the notebooks
