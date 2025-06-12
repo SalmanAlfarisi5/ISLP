@@ -23,3 +23,4 @@ $$p(X) = \frac{e^{\beta_0 + \beta_1 X_1 + \cdots + \beta_p X_p}}{1 + e^{\beta_0 
 ### Multinomial Logistic Regression
 Softmax  
 
+I will skip the rest again, sorry. I am a bit in rush of time to learn about deep learning concept.

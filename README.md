@@ -19,8 +19,10 @@
 | 1. Introduction | 🟢 Done |
 | 2. Statistical Learning | 🟢 Done |
 | 3. Linear Regression | 🟢 Done |
-| 4. Classification | 🛠 in progress
-| 5 - 12 | ⏳ up next |
+| 4. Classification | 🟢 Done |
+| 5. Resampling Methods | 🟢 Done |
+| 6. Linear Model Selection and Regularization | 🛠 in progress |
+| 7 - 12 | ⏳ up next |
 ---
 
 ## Run the notebooks
