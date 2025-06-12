@@ -21,8 +21,9 @@
 | 3. Linear Regression | 🟢 Done |
 | 4. Classification | 🟢 Done |
 | 5. Resampling Methods | 🟢 Done |
-| 6. Linear Model Selection and Regularization | 🛠 in progress |
-| 7 - 12 | ⏳ up next |
+| 6. Linear Model Selection and Regularization | 🟢 Done |
+| 7. Moving Beyond Linearity | 🛠 in progress |
+| 8 - 12 | ⏳ up next |
 ---
 
 ## Run the notebooks
