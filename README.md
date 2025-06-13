@@ -23,7 +23,9 @@
 | 5. Resampling Methods | 🟢 Done |
 | 6. Linear Model Selection and Regularization | 🟢 Done |
 | 7. Moving Beyond Linearity | 🛠 in progress |
-| 8 - 12 | ⏳ up next |
+| 8. Tree-Based Model | 🟢 Done |
+| 9. Support Vector Machine | 🛠 in progress |
+| 10 - 12 | ⏳ up next |
 ---
 
 ## Run the notebooks

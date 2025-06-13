@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41ecfdf3b7f069a5",
+        "id": "be473a425c057acb",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e70a7cfe47e12b",
+            "id": "abc329dddf82cc77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e70a7cfe47e12b",
+  "active": "abc329dddf82cc77",
   "lastOpenFiles": [
+    "Tree-Based Methods.md",
     "Moving Beyond Linearity.md",
     "Linear Model Selection and Regularization.md",
     "Resampling Methods.md",
