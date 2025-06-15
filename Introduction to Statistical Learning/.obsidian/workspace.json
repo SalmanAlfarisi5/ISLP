@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be473a425c057acb",
+        "id": "3dd2e45dda610a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "abc329dddf82cc77",
+            "id": "624c73fa77101f4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deep Learning"
             }
           }
         ]
@@ -164,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abc329dddf82cc77",
+  "active": "624c73fa77101f4a",
   "lastOpenFiles": [
+    "Deep Learning.md",
+    "Support Vector Machines.md",
     "Tree-Based Methods.md",
     "Moving Beyond Linearity.md",
     "Linear Model Selection and Regularization.md",

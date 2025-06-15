@@ -24,8 +24,9 @@
 | 6. Linear Model Selection and Regularization | 🟢 Done |
 | 7. Moving Beyond Linearity | 🟢 Done |
 | 8. Tree-Based Model | 🟢 Done |
-| 9. Support Vector Machine | 🛠 in progress |
-| 10 - 12 | ⏳ up next |
+| 9. Support Vector Machine | 🟢 Done |
+| 10. Deep Learning | 🛠 in progress |
+| 11 - 12 | ⏳ up next |
 ---
 
 ## Run the notebooks
