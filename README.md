@@ -25,8 +25,9 @@
 | 7. Moving Beyond Linearity | 🟢 Done |
 | 8. Tree-Based Model | 🟢 Done |
 | 9. Support Vector Machine | 🟢 Done |
-| 10. Deep Learning | 🛠 in progress |
-| 11 - 12 | ⏳ up next |
+| 10. Deep Learning | 🟢 Done  |
+| 11. Survival Analysis and Censored Data | 🛠 in progress |
+| 12. Unsupervised Learning | 🛠 in progress | 
 ---
 
 ## Run the notebooks
